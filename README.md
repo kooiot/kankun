@@ -9,13 +9,20 @@
 
 ### Control the switch:
 > http://<your device ip>/cgi-bin/relay.cgi?on
+> 
 > http://<your device ip>/cgi-bin/relay.cgi?off
+> 
 > http://<your device ip>/cgi-bin/relay.cgi?state
 
 ### There are also:
 > timing.cgi?online <p>
+> 
 > timing.cgi?offline
+> 
 > light.cgi?state
+> 
 > light.cgi?on
+> 
 > light.cgi?off
+> 
 > power.cgi
