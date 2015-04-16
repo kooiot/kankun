@@ -4,6 +4,7 @@
 ### Install Scripts
 > SSH to your device, make folder cgi-bin
 >> mkdir /www/cgi-bin
+> 
 > Copy file to cgi-bin folder by using scp
 
 
